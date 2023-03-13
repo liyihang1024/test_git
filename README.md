@@ -107,7 +107,7 @@ python main.py
 - Matplotlib
 
 如果您喜欢该项目，请给我们一个star支持，谢谢！
-```python {hl_lines=[3], linenos=true, style=monokai}
+```python {hl_lines=[3], linenos=true, style=solarizeddark}
 def my_function():
     print("Hello, world!")
     

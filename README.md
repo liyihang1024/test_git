@@ -107,31 +107,13 @@ python main.py
 - Matplotlib
 
 如果您喜欢该项目，请给我们一个star支持，谢谢！
+```python {hl_lines=[3], linenos=true, style=monokai}
+def my_function():
+    print("Hello, world!")
+    
+    # This line will be highlighted
+    print("This line is highlighted!")
+    
+    print("Goodbye, world!")
+``` 
 
-<style>
-/* 设置代码块背景色 */
-pre {
-  background-color: #F7F7F7;
-}
-
-/* 设置代码块主题 */
-code[class*="language-"],
-pre[class*="language-"] {
-  color: #333;
-  background: none;
-  text-shadow: 0 1px white;
-  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-  font-size: 14px;
-  line-height: 1.5;
-  tab-size: 4;
-}
-
-/* 设置不同语言代码块的不同主题 */
-code[class*="language-python"] {
-  color: #3572A5;
-}
-
-code[class*="language-html"] {
-  color: #C34A3D;
-}
-</style>
